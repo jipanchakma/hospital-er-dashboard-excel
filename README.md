@@ -1,3 +1,6 @@
+<img width="1680" height="673" alt="Project Hospital-Dashboard" src="https://github.com/user-attachments/assets/8becafbd-f219-4f6c-9e1c-45d7e32ab2ab" />
+
+
 🏥 Hospital Emergency Room Dashboard (Excel)
 
 An interactive Excel dashboard that helps hospital stakeholders monitor ER performance, analyze patient trends, and support data-driven decisions to improve service quality.
@@ -29,3 +32,5 @@ Built as a hands-on project following the training by Satish Dhawale.
 Suggested topics/tags: excel excel-dashboard data-analysis data-visualization healthcare-analytics pivot-tables dashboard
 
 A few notes: the third KPI card on the dashboard is labeled "No. of patient" but shows the satisfaction score, so you may want to fix that label before posting or uploading. Also, add the satisfaction scale (for example, out of 10) if you know it, since 4.99 reads very differently depending on the scale. And remember to attach the dashboard image to the LinkedIn post and the repo README.
+
+
