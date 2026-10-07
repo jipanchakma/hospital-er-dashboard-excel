@@ -6,14 +6,14 @@
 An interactive Excel dashboard that helps hospital stakeholders monitor ER performance, analyze patient trends, and support data-driven decisions to improve service quality.
 
 📌 Key Metrics
-Number of Patients: total ER visits (9,216) with an area sparkline for the daily trend
-Average Wait Time: average time to see a medical professional (35.26 min), with daily trend tracking
-Patient Satisfaction Score: average daily score (4.99) with a trend sparkline
-Admission Status: admitted vs. not admitted patients (50.04% vs. 49.96%)
-Age Distribution: patient counts grouped into age brackets (00-10 through 70+)
-Timeliness: percentage of patients seen within 30 minutes (59% on time, 41% delayed)
-Gender Analysis: patient count by gender
-Department Referrals: referral volume by department (General Practice, Orthopedics, Physiotherapy, Cardiology, Neurology, Gastroenterology, Renal)
+Number of Patients: total ER visits (9,216) with an area sparkline for the daily trend </br>
+Average Wait Time: average time to see a medical professional (35.26 min), with daily trend tracking </br>
+Patient Satisfaction Score: average daily score (4.99) with a trend sparkline </br>
+Admission Status: admitted vs. not admitted patients (50.04% vs. 49.96%) </br>
+Age Distribution: patient counts grouped into age brackets (00-10 through 70+) </br>
+Timeliness: percentage of patients seen within 30 minutes (59% on time, 41% delayed) </br>
+Gender Analysis: patient count by gender </br>
+Department Referrals: referral volume by department (General Practice, Orthopedics, Physiotherapy, Cardiology, Neurology, Gastroenterology, Renal) </br>
 🎛️ Interactivity
 Year slicer (2023, 2024)
 Month slicer (Jan-Dec)
